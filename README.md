@@ -16,4 +16,4 @@
 6. Atenção: para que o Passo 5 ocorra corretamente você precisa estar conectado(a) na mesma rede que seu computador
 
 <h4>Deploy feito pelo [Vercel](https://vercel.com/)</h4>
-:link: [https://teste-catus-judissf.vercel.app/](https://teste-catus-judissf.vercel.app/)
+:link: https://teste-catus-judissf.vercel.app/
